@@ -1,4 +1,4 @@
-package oop_3;
+package oop_new;
 
 import java.util.Arrays;
 
@@ -17,7 +17,7 @@ public class TestArrayChange {
     }
 
     public static void changeData (int var, int[] arr) {
-        
+
         System.out.println(var);
         System.out.println(Arrays.toString(arr));
         System.out.println(var);

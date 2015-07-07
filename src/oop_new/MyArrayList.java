@@ -1,9 +1,8 @@
-package oop_3;
+package oop_new;
 
 /**
  * Created by ITHILLEL6 on 07.07.2015.
  */
-import java.util.Arrays;
 
 public class MyArrayList {
     private int[] list;
